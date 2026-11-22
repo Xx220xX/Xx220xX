@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Desenvolvedor criando projetos, experimentando tecnologia e construindo coisas na web.**
+**Desenvolvedor explorando sistemas embarcados, software e tecnologias web.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Xx220xX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xx220xX)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://xx220xx.github.io)
@@ -11,22 +11,27 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento. Gosto de transformar ideias em projetos reais, aprender novas ferramentas e compartilhar o que construo.
+Gosto de criar coisas, entender como elas funcionam e aprender no processo — do código que roda perto do hardware às aplicações web.
 
-- 🔭 Atualmente trabalhando em projetos pessoais
-- 🌱 Sempre aprendendo algo novo
-- 💡 Explorando desenvolvimento web e novas tecnologias
-- 🤝 Aberto a colaborações
+- 🔭 Atualmente trabalhando em **projetos privados com MCUs**
+- 🌱 Explorando continuamente novas tecnologias e ferramentas
+- 💻 Curto tanto desenvolvimento de baixo nível quanto aplicações web
+- 🤝 Aberto a trocar ideias e colaborar em projetos
 
 ## 🛠️ Tecnologias
 
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)](https://isocpp.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)](https://www.rust-lang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
+
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)](https://svelte.dev)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)](https://vuejs.org)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash)
 
 </div>
 
@@ -41,9 +46,8 @@ Sou apaixonado por tecnologia e desenvolvimento. Gosto de transformar ideias em 
 
 ## 🌐 Meus lugares
 
-- 💼 [Veja meus projetos](https://github.com/Xx220xX?tab=repositories)
-- 🧑‍💻 [Acesse meu portfólio](https://xx220xx.github.io)
-- ⭐ [Explore minhas contribuições](https://github.com/Xx220xX?tab=overview&from=2026-01-01)
+- 💼 [Explore meus repositórios](https://github.com/Xx220xX?tab=repositories)
+- 🧑‍💻 [Visite meu portfólio](https://xx220xx.github.io)
 
 ## 👀 Visitantes
 
@@ -51,10 +55,6 @@ Sou apaixonado por tecnologia e desenvolvimento. Gosto de transformar ideias em 
 
 <img src="https://profile-counter.glitch.me/xx220xx/count.svg" alt="Contador de visitantes" />
 
-</div>
-
-<div align="center">
-
-**Obrigado pela visita!** ✨
+**Valeu pela visita!** ✨
 
 </div>
