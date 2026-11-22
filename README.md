@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Desenvolvedor explorando sistemas embarcados, software e tecnologias web.**
+**Engenheiro de Telecomunicações | Sistemas embarcados, PCBs e automações**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Xx220xX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xx220xX)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://xx220xx.github.io)
@@ -14,8 +14,8 @@
 Gosto de criar coisas, entender como elas funcionam e aprender no processo — do código que roda perto do hardware às aplicações web.
 
 - 🔭 Atualmente trabalhando em **projetos privados com MCUs**
+- 🔌 Desenvolvo **PCBs** e soluções de **automação**
 - 🌱 Explorando continuamente novas tecnologias e ferramentas
-- 💻 Curto tanto desenvolvimento de baixo nível quanto aplicações web
 - 🤝 Aberto a trocar ideias e colaborar em projetos
 
 ## 🛠️ Tecnologias
@@ -24,6 +24,7 @@ Gosto de criar coisas, entender como elas funcionam e aprender no processo — d
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)](https://isocpp.org)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff)](https://developer.nvidia.com/cuda-zone)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)](https://www.rust-lang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org)
@@ -35,12 +36,27 @@ Gosto de criar coisas, entender como elas funcionam e aprender no processo — d
 
 </div>
 
+## 🔒 Projetos privados — distribuição por linguagem
+
+Percentuais informados para meus projetos privados, ajustados para totalizar **100%**. C/C++ foi ajustado de 40% para 34%; as demais proporções foram mantidas.
+
+| Linguagem | Percentual |
+|:--|--:|
+| C / C++ | **34%** |
+| CUDA | **15%** |
+| Rust | **5%** |
+| Python | **20%** |
+| Svelte | **1%** |
+| React | **10%** |
+| Vue | **10%** |
+| JavaScript | **5%** |
+| **Total** | **100%** |
+
 ## 📊 GitHub
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=xx220xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx220xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
 
 </div>
 
