@@ -38,7 +38,8 @@ Gosto de criar coisas, entender como elas funcionam e aprender no processo — d
 
 ## 🔒 Projetos privados — distribuição por linguagem
 
-Percentuais informados para meus projetos privados, ajustados para totalizar **100%**. C/C++ foi ajustado de 40% para 34%; as demais proporções foram mantidas.
+<details>
+<summary>Ver distribuição completa</summary>
 
 | Linguagem | Percentual |
 |:--|--:|
@@ -51,6 +52,8 @@ Percentuais informados para meus projetos privados, ajustados para totalizar **1
 | Vue | **10%** |
 | JavaScript | **5%** |
 | **Total** | **100%** |
+
+</details>
 
 ## 📊 GitHub
 
@@ -69,7 +72,7 @@ Percentuais informados para meus projetos privados, ajustados para totalizar **1
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/xx220xx/count.svg" alt="Contador de visitantes" />
+![Visitantes](https://komarev.com/ghpvc/?username=Xx220xX&color=blue&style=for-the-badge)
 
 **Valeu pela visita!** ✨
 
